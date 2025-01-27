@@ -77,6 +77,7 @@ section{
 
 section:hover{
     background-color: #e9e284;
+    cursor: pointer;
 }
 
 .account{
@@ -200,6 +201,7 @@ button::after{
 
 button:hover::after{
     transform: translateX(10px) translateY(8px);
+    cursor: pointer;
 }
 
 .trading_orders{
@@ -243,7 +245,7 @@ button:hover::after{
     background-color: #ececec;
     border-radius: 4px;
 
-    cursos: pointer;
+    cursor: pointer;
 }
 
 .quantity{
