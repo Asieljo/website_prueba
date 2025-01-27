@@ -242,6 +242,8 @@ button:hover::after{
 .specific_order:hover{
     background-color: #ececec;
     border-radius: 4px;
+
+    cursos: pointer;
 }
 
 .quantity{
